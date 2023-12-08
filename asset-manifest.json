@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7908838a.css",
-    "main.js": "/static/js/main.d6d83a96.js",
+    "main.js": "/static/js/main.6bafb82d.js",
     "static/media/car1.jpg": "/static/media/car1.d2f5d230e8e91898e519.jpg",
     "static/media/car5.png": "/static/media/car5.448084c604b29c5b8a81.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
@@ -14,9 +14,9 @@
     "static/media/carnival.jpg": "/static/media/carnival.d6c3aa105fdf4f32e9b3.jpg",
     "static/media/img1.jpg": "/static/media/img1.ddfb05c1b0fd4b869781.jpg",
     "static/media/bb1.jpg": "/static/media/bb1.a9c1a3a6f7abc519513a.jpg",
-    "static/media/num3.png": "/static/media/num3.abd3f102d5c66991eaa1.png",
     "static/media/img4.jpg": "/static/media/img4.fc7922a3c595b6f54ab0.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/num3.png": "/static/media/num3.22d18173b59265377827.png",
     "static/media/app3.png": "/static/media/app3.428ae64227a692602cce.png",
     "static/media/app4.png": "/static/media/app4.90012c2f83884a499c92.png",
     "static/media/3.jpg": "/static/media/3.58e07d7012f0ad038da1.jpg",
@@ -54,10 +54,10 @@
     "static/media/danger.svg": "/static/media/danger.6839895ff119ac2345e9.svg",
     "static/media/success.svg": "/static/media/success.3a73f159701e03d93f98.svg",
     "main.7908838a.css.map": "/static/css/main.7908838a.css.map",
-    "main.d6d83a96.js.map": "/static/js/main.d6d83a96.js.map"
+    "main.6bafb82d.js.map": "/static/js/main.6bafb82d.js.map"
   },
   "entrypoints": [
     "static/css/main.7908838a.css",
-    "static/js/main.d6d83a96.js"
+    "static/js/main.6bafb82d.js"
   ]
 }
